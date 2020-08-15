@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584296890 source:c:\users\user\desktop\des\main.cpp
+	<iostream>
+
+1584373270 source:c:\users\user\desktop\last term\security\sec-a2-20166043\sec-a2-20166043\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
